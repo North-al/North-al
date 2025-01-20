@@ -22,3 +22,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=North-al&show_icons=true&theme=tokyonight" height="180" />
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=North-al&theme=tokyonight&layout=compact" height="180" />
 </div>
+
+> ##### 当生活不是唯一的难题，我只会为热爱卖命
