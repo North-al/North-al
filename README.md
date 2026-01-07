@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 -   🌱 I’m currently learning <img src="https://img.shields.io/badge/Go-latest-blue" height="16" />
--   📫 How to reach me: [1227379879@qq.com](mailto:1227379879@qq.com)
+-   📫 How to reach me: [1227379879@qq.com](mailto:1227379879@qq.com) / [northal@foxmail.com](northal@foxmail.com)
 
 ### Languages and Tools:
 
