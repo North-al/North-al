@@ -19,8 +19,8 @@
 ### Github Stats:
 
 <div style="display: flex; align-items:end; gap: 4px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=North-al&show_icons=true&theme=tokyonight" height="180" />
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=North-al&theme=tokyonight&layout=compact" height="180" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=North-al&show_icons=true&theme=tokyonight" height="180" />
+    <img src = "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=North-al&theme=tokyonight&layout=compact" height="180" />
 </div>
 
 ---   
